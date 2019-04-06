@@ -1,0 +1,19 @@
+{
+    "awsgraphql": {
+        "awscloudformation": {
+            "AuthRoleName": "awsgraphql-20190405121233-authRole",
+            "UnauthRoleArn": "arn:aws:iam::218694734074:role/awsgraphql-20190405121233-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::218694734074:role/awsgraphql-20190405121233-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "awsgraphql-20190405121233-deployment",
+            "UnauthRoleName": "awsgraphql-20190405121233-unauthRole",
+            "StackName": "awsgraphql-20190405121233",
+            "StackId": "arn:aws:cloudformation:eu-west-1:218694734074:stack/awsgraphql-20190405121233/c4a4bfe0-57d6-11e9-85ba-0293ecc0419e"
+        },
+        "categories": {
+            "auth": {
+                "cognito5fe686b8": {}
+            }
+        }
+    }
+}
